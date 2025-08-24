@@ -589,7 +589,7 @@ export default function App() {
     const fetchRates = async () => {
       try {
         setRatesLoaded(false);
-        const res = await fetch("https://api.exchangerate.host/latest?base=INR");
+        const res = await fetch("https://api.exchangerate.host/latest?access_key=eff4a3d3a39fc7c383f93d59e08ff432&base=INR");
         const json = await res.json();
         if (json && json.rates) {
           setRates(json.rates);

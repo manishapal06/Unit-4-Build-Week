@@ -11,7 +11,8 @@ Frontend (React + Firebase)
 
 Deployed App
 
-Frontend: https://your-deployed-site.vercel.app
+Frontend: https://unit-4-build-week.vercel.app/
+
 
 Backend: N/A (Firebase Authentication used)
 
@@ -30,11 +31,7 @@ my-app/
 
 Video Walkthrough of the Project
 
-[Attach 1–3 min demo video here]
-
-Video Walkthrough of the Codebase
-
-[Attach 2–5 min code walkthrough video here]
+(https://youtu.be/pkhFp__HxH4)
 
 Features
 
